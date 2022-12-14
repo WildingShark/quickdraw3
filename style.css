@@ -1,0 +1,26 @@
+body{
+    background-color: lime;
+}
+#score{
+    font-size: 33px;
+    margin-left:-1050px;
+}
+#timer{
+    font-size: 33px;
+    float:right;
+}
+#sketch_to_be_drawn{
+    color:blue;
+    font-size: 25px;
+}
+#your_sketch{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#confidence{
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#show_sketch{
+    float:right;
+}
